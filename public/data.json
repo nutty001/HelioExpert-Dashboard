@@ -8,7 +8,7 @@
             "slf": 100.0
         }
     ],
-    "Inverters": [
+    "Inverter": [
         {
             "uid": "SLM00E923M",
             "devName": "INVERTER_1",
