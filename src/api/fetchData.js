@@ -1,6 +1,6 @@
 export const fetchData = async () => {
   try {
-    const response = await fetch('http://localhost:8000/api/v1/plant/SLM00E923M/');
+    const response = await fetch('/data.json');
     if (!response.ok) {
       throw new Error(`HTTP error! Status: ${response.status}`);
     }
