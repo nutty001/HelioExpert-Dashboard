@@ -1,16 +1,34 @@
-Description
+Description:
+
 This is a solar power dashboard monitoring interface built with React, Vite, and TailwindCSS. 
 It visualizes Plant Overview, Inverter Status and Weather Data
 
-Tech Stack
-React
-Vite
-Tailwind CSS
-Lucide React (for icons)
-Recharts (charts & graphs)
 
-Installation
+____________________________________________________________________________________________________________________________________________________
+
+Tech Stack:
+
+1. React
+
+2. Vite
+
+3. Tailwind CSS
+
+4. Lucide React (for icons)
+
+5. Recharts (charts & graphs)
+
+____________________________________________________________________________________________________________________________________________________
+
+
+
+Installation:
+
 npm install
 
-Developnemt
+____________________________________________________________________________________________________________________________________________________
+
+
+Developnemt:
+
 npm run dev
